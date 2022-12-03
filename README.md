@@ -1,4 +1,4 @@
-# tea-sell-storage-system
+# tea sale & warehousing system
 database project
 
 ### Architecture
@@ -6,7 +6,7 @@ database project
 + frontend: React
 + Database: MySQL
 
-### [video](https://www.youtube.com/watch?v=rmEVAOxdVq8)
+### [video](https://www.youtube.com/watch?v=hxa2o0-o6Hs)
 chinese dubbing
 
 ### background
