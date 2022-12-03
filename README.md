@@ -20,7 +20,7 @@ Teahouses began to rise in the Song Dynasty and are one of the traditional indus
 5. Pricing Management. Users with pricing authority can add, delete, modify, and check product information and service information.
 
 ### Interface
-![](https://github.com/Iris-Song/tea-sell-storage-system/edit/master/pic/1.png)
-![](https://github.com/Iris-Song/tea-sell-storage-system/edit/master/pic/2.png)
-![](https://github.com/Iris-Song/tea-sell-storage-system/edit/master/pic/3.png)
-![](https://github.com/Iris-Song/tea-sell-storage-system/edit/master/pic/4.png)
+![](https://github.com/Iris-Song/tea-sell-storage-system/blob/master/pic/1.png)
+![](https://github.com/Iris-Song/tea-sell-storage-system/blob/master/pic/2.png)
+![](https://github.com/Iris-Song/tea-sell-storage-system/blob/master/pic/3.png)
+![](https://github.com/Iris-Song/tea-sell-storage-system/blob/master/pic/4.png)
